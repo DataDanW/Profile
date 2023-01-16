@@ -18,4 +18,4 @@ Hello, I am Dan, a data analyst from the UK, currently on a management graduate 
 ## 📫 Contact me
 - [LinkedIn](https://www.linkedin.com/in/dan-wade22)
 - [Tableau](https://public.tableau.com/app/profile/danwade22)
-- 💬 And ask me about my personal development or my recent project and feel free to give feedback
+- 💬 Ask me about my personal development or my recent project and feel free to give feedback
